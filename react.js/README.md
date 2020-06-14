@@ -7,3 +7,6 @@ https://github.com/bidodev/random-dogs
 
 ## todo-list
 https://github.com/bidodev/react.js-todo-list
+
+## cats-rolodex
+https://github.com/bidodev/cats-relodex
