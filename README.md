@@ -5,6 +5,10 @@
 ## Front-end Projects 
 > Built in 2020 during **DCI Web Development Course**
 
+## React Projects
+> Built using React / Redux / Hooks / Firebase
+* [Instagram Lookalike](https://github.com/bidodev/instagram-lookalike)
+* [Todo List](https://github.com/bidodev/react.js-todo-list)
 
 ## Static Projects
 > Built using HTML5 / CSS and SASS
@@ -34,9 +38,6 @@
 * [Flex Films](https://github.com/bidodev/flex-films)
 * [Async JS](https://github.com/bidodev/async-js)
 * [Github API](https://github.com/bidodev/github-search)
-
-## React Projects
-> Built using React / Redux / Hooks / Firebase
 
 ### 🚀 Technologies used
 ![html](./img/html.png)
