@@ -22,8 +22,6 @@
 * [Small Portfolio](https://github.com/bidodev/bido-dev)
 * [Pallete Color](https://github.com/bidodev/palleteColor)
 
-
-### Bootstrap Based
 #### Built using DOM API, JavaScript / Bootstrap / HTML5
 * [Random Use](https://github.com/bidodev/bootstrap-bs)
 * [Portfolio](https://github.com/bidodev/bootstrap-portfolio)
