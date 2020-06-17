@@ -6,12 +6,12 @@
 > Built in 2020 during **DCI Web Development Course**
 
 ## React Projects
-> Built using React / Redux / Hooks / Firebase
+#### Built using React / Redux / Hooks / Firebase
 * [Instagram Lookalike](https://github.com/bidodev/instagram-lookalike)
 * [Todo List](https://github.com/bidodev/react.js-todo-list)
 
 ## Static Projects
-> Built using HTML5 / CSS and SASS
+#### Built using HTML5 / CSS and SASS
 
 * [Youtube Channel](https://github.com/bidodev/channel-layout)
 * [Chemistry Periodic Table](https://github.com/bidodev/chemistry-periodic-table)
@@ -24,12 +24,12 @@
 
 
 ### Bootstrap Based
-> Built using DOM API, JavaScript / Bootstrap / HTML5
+#### Built using DOM API, JavaScript / Bootstrap / HTML5
 * [Random Use](https://github.com/bidodev/bootstrap-bs)
 * [Portfolio](https://github.com/bidodev/bootstrap-portfolio)
 
 ## Dinamyc Projects
-> Built using DOM API, JavaScript / API's / SASS / HTML5
+#### Built using DOM API, JavaScript / API's / SASS / HTML5
 * [Rosetta Book Finder](https://github.com/bidodev/rosetta-application) - *This project also include Webpack / Babel and MVC Design Pattern*
 * [Movies List](https://github.com/bidodev/movies-list)
 * [Todo-list](https://github.com/bidodev/todo-list)
