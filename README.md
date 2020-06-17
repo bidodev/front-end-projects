@@ -7,8 +7,8 @@
 
 ## React Projects
 #### Built using React / Redux / Hooks / Firebase
-* [Instagram Lookalike](https://github.com/bidodev/instagram-lookalike)
-* [Todo List](https://github.com/bidodev/react.js-todo-list)
+* <a href="https://github.com/bidodev/instagram-lookalike" alt="instagram-lookalike" target="_blank">Instagram Lookalike</a>
+* <a href="https://github.com/bidodev/react.js-todo-list" target="_blank">Todo List</a>
 
 ## Static Projects
 #### Built using HTML5 / CSS and SASS
