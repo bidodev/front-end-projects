@@ -10,6 +10,7 @@
 * <a href="https://github.com/bidodev/instagram-lookalike" alt="instagram-lookalike" target="_blank">Instagram Lookalike</a>
 * <a href="https://github.com/bidodev/react.js-todo-list" target="_blank">Todo List</a>
 * <a href="https://bidodev.github.io/cats-relodex/" target="_blank">Cats Relodex</a>
+* <a href="https://github.com/bidodev/morse-code-converter" target="_blank">Morse Code Converter</a>
 
 ## Static Projects
 #### Built using HTML5 / CSS and SASS
