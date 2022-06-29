@@ -52,4 +52,4 @@ Those projects were built in 2019 - 2020 during **DCI Web Development Course**
 ![React JS](https://user-images.githubusercontent.com/47280551/71610254-17910b80-2b6e-11ea-9997-eef4b39fd673.png)
 
 ## Contact
-Created by [Claudinei Bido](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
+Created by [Claudinei Bido](https://www.linkedin.com/in/bidoc/) - feel free to contact me
